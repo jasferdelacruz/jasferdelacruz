@@ -36,7 +36,7 @@ I'm passionate about cyber threat detection, malware analysis, digital forensics
 ### 🌐 Connect With Me
 - 📧 jasferdelacruz1217@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jasfer-dela-cruz/)  
-- 💻 Member of [HackTheNorth.ph]
+- 💻 Member of HackTheNorth.ph
 
 ---
 
