@@ -29,7 +29,7 @@ I'm passionate about cyber threat detection, malware analysis, digital forensics
 - **Languages:** Python, Bash, C#, SQL  
 - **Cybersecurity Tools:** IDA Pro, Velociraptor, Axiom, Wireshark , Metasploit , Splunk
 - **Dev Tools:** VMware, VirtualBox, Visual Studio, Streamlit, GitHub  
-- **OS & Platforms:** Windows Server, Kali Linux, Ubuntu
+- **OS & Platforms:** Windows Server, Kali Linux, Ubuntu , MacOS
 
 ---
 
