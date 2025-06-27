@@ -1,43 +1,40 @@
-## Hi there 👋 I'm Jasfer Dela Cruz
+## 👋 Hi, I’m **Jasfer Dela Cruz**
+💻 **Full-Stack Developer** | 🛡️ **Cybersecurity Analyst**
 
-🎓 Computer Science Student | 🛡️ Cybersecurity Enthusiast 
-
-I'm passionate about cyber threat detection, malware analysis, digital forensics, and building secure systems. I enjoy working on real-world problems through hands-on projects and contributing to cybersecurity communities.
+I build secure, scalable systems that bridge full-stack development, SOC operations, and server administration. Passionate about threat detection, malware analysis, and turning real-world challenges into hands-on projects.
 
 ---
 
 ### 🚀 Current Focus
-- 🎯 Cyber Threat Analysis, Reverse Engineering, DFIR
-- 🧪 Experimenting with malware analysis labs using Velociraptor & IDA Pro
-- 🌍 Learning more about global cyber defense operations & security best practices
+- **Threat Detection & DFIR** · IOC hunting, Velociraptor labs, reverse engineering  
+- **Secure MERN Development** · GraphQL APIs, CI/CD containers, zero-trust auth  
+- **Server & Cloud Hardening** · Windows + Linux baselines, automated patching  
 
 ---
 
-### 🧩 Projects
-- 🔐 **Windows Server Network Setup** – Configured AD, roles, and policies in virtual lab
-- 🐧 **Linux Server Automation** – Automated tasks with Bash for system monitoring
-- 🧬 **Malware Analysis Toolkit** – Reverse engineering malware using static and dynamic methods
-- 🔎 **Forensic Analysis Toolkit** – Disk and file system analysis, data carving, anti-forensics
-- 🎯 **Velociraptor DFIR** – Endpoint monitoring, threat hunting, and forensic analysis
-- 🤖 **Diabetes ML Prediction App** – Built with Streamlit, logistic regression, and Random Forest
-- 🧑‍🎓 **Facial Recognition Attendance System** – Built in C# using EmguCV and MySQL
-
+### 🧩 Featured Projects
+| Domain | Project | Highlights | Tech |
+|--------|---------|------------|------|
+| **SOC & Threat Detection** | **Threat Detection Lab** | End-to-end SOC simulation with alert triage, IOC enrichment, automated playbooks | Splunk · TheHive · MISP · Cortex XSOAR |
+| **Full-Stack (MERN)** | **Secure SaaS Dashboard** | RBAC auth, audit logging, containerized CI/CD | React · Node · MongoDB · GraphQL · Docker |
+| **Server Management** | **Enterprise Server Lab** | AD, DNS/DHCP, GPO, Sysmon logging, patch automation | Windows Server · Ubuntu · PowerShell |
+| **Malware & DFIR** | **Malware Analysis Lab** | Static + dynamic analysis, IOC report, memory forensics | IDA Pro · Wireshark · Procmon |
+| **Web Pentest** | **OWASP Assessment** | XSS, SQLi, IDOR exploitation, full pentest report | Burp Suite · ZAP · sqlmap |
 
 ---
 
 ### 🛠️ Tech & Tools
-- **Languages:** Python, Bash, C#, SQL  
-- **Cybersecurity Tools:** IDA Pro, Velociraptor, Axiom, Wireshark , Metasploit , Splunk
-- **Dev Tools:** VMware, VirtualBox, Visual Studio, Streamlit, GitHub  
-- **OS & Platforms:** Windows Server, Kali Linux, Ubuntu , MacOS
+- **Languages** · Python · JavaScript · Bash · C# · SQL  
+- **Security** · IDA Pro · Velociraptor · Wireshark · Zeek · Metasploit  
+- **Dev / CI** · Docker · GitHub Actions · Vercel · Nginx  
+- **Virtualization** · VMware · VirtualBox  
+- **OS** · Windows Server · Ubuntu · Kali Linux · macOS  
 
 ---
 
-### 🌐 Connect With Me
-- 📧 jasferdelacruz1217@gmail.com  
+### 🌐 Connect
+- 📧 **jasferdelacruz1217@gmail.com**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jasfer-dela-cruz/)  
-- 💻 Member of HackTheNorth.ph
+- 💬 Member — **HackTheNorth.ph**
 
----
-
-> “Cybersecurity is much more than a matter of IT.” — Stephane Nappo
+> “Cybersecurity is much more than a matter of IT.” — Stéphane Nappo
