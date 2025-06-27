@@ -41,13 +41,5 @@ LetsDefend · TryHackMe · CyberDefenders · Real-world threat simulations
 
 ---
 
-### 🛠️ Tech & Tools
-- **Languages** · Python · JavaScript · Bash · C# · SQL  
-- **Security** · IDA Pro · Velociraptor · Wireshark · Zeek · Metasploit  
-- **Dev / CI** · Docker · GitHub Actions · Vercel · Nginx  
-- **Virtualization** · VMware · VirtualBox  
-- **OS** · Windows Server · Ubuntu · Kali Linux · macOS  
-
----
 
 > “Cybersecurity is much more than a matter of IT.” — Stéphane Nappo
