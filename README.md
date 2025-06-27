@@ -6,9 +6,27 @@ I build secure, scalable systems that bridge full-stack development, SOC operati
 ---
 
 ### 🚀 Current Focus
-- **Threat Detection & DFIR** · IOC hunting, Velociraptor labs, reverse engineering  
-- **Secure MERN Development** · GraphQL APIs, CI/CD containers, zero-trust auth  
-- **Server & Cloud Hardening** · Windows + Linux baselines, automated patching  
+
+🛰️ SOC Operations & SIEM
+Splunk · Zeek · TheHive · MISP · MITRE ATT&CK
+
+🧪 Malware Analysis & Reverse Engineering
+Static/Dynamic Analysis · Velociraptor · IDA Pro · Any.Run
+
+🔍 Digital Forensics & Incident Response (DFIR)
+Memory & Disk Forensics · Axiom · Registry & File System Analysis
+
+💻 Full-Stack Development (MERN)
+Next.js · GraphQL · Docker · CI/CD · Secure-by-Design
+
+🏛️ Governance, Risk & Compliance (GRC)
+NIST CSF · CIS Controls · ISO 27001 · Policy & Audit Readiness
+
+🛡️ Web Penetration Testing
+Burp Suite · OWASP ZAP · ffuf · OWASP Top 10 · Recon & Exploitation
+
+🌍 Global Cyber Defense Strategies
+LetsDefend · TryHackMe · CyberDefenders · Real-world threat simulations
 
 ---
 
@@ -31,10 +49,5 @@ I build secure, scalable systems that bridge full-stack development, SOC operati
 - **OS** · Windows Server · Ubuntu · Kali Linux · macOS  
 
 ---
-
-### 🌐 Connect
-- 📧 **jasferdelacruz1217@gmail.com**  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jasfer-dela-cruz/)  
-- 💬 Member — **HackTheNorth.ph**
 
 > “Cybersecurity is much more than a matter of IT.” — Stéphane Nappo
