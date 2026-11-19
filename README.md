@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jasferdelacruzz"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jasferdelacruz"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://jasferdelacruz.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-2FBF84?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="mailto:jasferdelacruz1217"><img alt="Email" src="https://img.shields.io/badge/Email-121715?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
